@@ -10,8 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldhs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # Roadmap Stats
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64de11e0095da82cafa0f3c2?variant=dark)](https://roadmap.sh)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rauldhs&icon=0&color=0)](https://visitcount.itsvg.in)
