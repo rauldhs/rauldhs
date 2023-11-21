@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning computer science topics like computer graphics, algorithms and machine learning<br>👯 I’m looking to collaborate on very cool stuff<br>⚡ Fun fact pokemon is cool
+🔭 I’m currently working on learning computer science topics like computer graphics, algorithms, machine learning, and web development<br>👯 I’m looking to collaborate on very cool stuff<br>⚡ Fun fact pokemon is cool
 
 
 # 💻 Tech Stack:
